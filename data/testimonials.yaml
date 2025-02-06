@@ -1,6 +1,6 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Eko
+    name: Joko
     message: >-
       Saya menggunakan bata roster dari roster.bangunan.co untuk sirkulasi udara
       rumah saya. Kualitasnya sangat baik dan desainnya elegan.
@@ -9,28 +9,29 @@ testimonials:
       bata roster berkualitas untuk proyek Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Indah
+    name: Nina
     message: >-
-      roster.bangunan.co sangat bermanfaat dalam menyediakan bata roster untuk
-      dekorasi pagar rumah saya. Produk yang saya beli sangat cocok dan
-      berkualitas tinggi.
+      Pelayanan roster.bangunan.co sangat baik dan bata roster yang saya pilih
+      sangat berkualitas.
     response: >-
-      Terima kasih, atas kepercayaannya. Kami senang dapat menyediakan produk
-      berkualitas untuk Anda!
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan bata roster dari kami.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Samsul
+    name: Budi
     message: >-
       Saya menggunakan bata roster dari roster.bangunan.co untuk proyek gedung
-      dan sangat puas dengan kualitasnya. Pengirimannya sangat cepat dan tepat
+      dan sangat puas dengan ketahanannya. Pengirimannya sangat cepat dan tepat
       waktu.
-    response: Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih kami!
+    response: >-
+      Terima kasih! Kami berkomitmen untuk menyediakan produk bata roster
+      berkualitas dengan layanan terbaik.
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Rudi
+    name: Dedi
     message: >-
-      Saya sangat puas dengan bata roster dari roster.bangunan.co. Kualitasnya
-      kokoh dan tepat untuk proyek saya.
+      Bata roster dari roster.bangunan.co sangat cocok untuk proyek saya.
+      Kualitasnya sangat bagus dan tahan lama.
     response: >-
       Terima kasih, atas kepercayaannya. Kami senang dapat memberikan produk
       terbaik untuk proyek Anda.
@@ -38,17 +39,18 @@ testimonials:
   - avatar: /images/admin/avatar5.png
     name: Sari
     message: >-
-      Pelayanan roster.bangunan.co sangat baik. Produk bata roster yang saya
-      beli sangat kokoh dan sesuai dengan harapan saya.
-    response: Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih kami!
+      Saya sangat puas dengan bata roster dari roster.bangunan.co. Kualitasnya
+      sangat berkualitas dan sesuai dengan desain yang saya inginkan.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      bata roster terbaik.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Joko
+    name: Samsul
     message: >-
-      Bata roster dari roster.bangunan.co sangat sesuai dengan kebutuhan
-      dekorasi dinding rumah saya. Pengirimannya tepat waktu dan hasilnya sesuai
-      harapan.
+      Bata roster dari roster.bangunan.co sangat cocok dengan kebutuhan dekorasi
+      dinding rumah saya. Pengirimannya cepat dan hasilnya sesuai harapan.
     response: >-
-      Terima kasih, atas ulasan positifnya. Kami selalu berkomitmen untuk
-      memberikan produk terbaik.
+      Kami senang mendengar bahwa Anda puas dengan produk bata roster kami.
+      Terima kasih atas ulasannya!
     rating: 5
