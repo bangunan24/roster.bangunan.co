@@ -1,6 +1,6 @@
 ---
 title: Jual Roster Beton Minimalis di Rawalumbu Bekasi
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - harga
 description: >-
